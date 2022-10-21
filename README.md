@@ -9,9 +9,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctamilly&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Tamilly-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Tamilly-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Tamilly-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Tamilly-Js" height="10" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Tamilly-HTML" height="10" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Tamilly-CSS" height="10" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
