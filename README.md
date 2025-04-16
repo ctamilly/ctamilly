@@ -1,6 +1,6 @@
 ### Oiee! Eu sou a Cristhiane Tamilly 👋
 ##
-- 🌱 Estudante de Ciência da Computação | Explorando Python e como a programação pode facilitar processos ✨
+🌱 Estudante de Ciência da Computação | Explorando Python e como a programação pode facilitar processos ✨
 
 <div align="center">
     <a href="https://github.com/ctamilly">
