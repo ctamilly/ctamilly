@@ -1,7 +1,6 @@
 ### Oiee! Eu sou a Cristhiane Tamilly 👋
 ##
-- 🌱 Estou estudando `.js`, `.html`, `.css`
-- 😄 Pronouns: ela / dela
+- 🌱 Estudante de Ciência da Computação | Explorando Python e como a programação pode facilitar processos ✨
 
 <div align="center">
     <a href="https://github.com/ctamilly">
